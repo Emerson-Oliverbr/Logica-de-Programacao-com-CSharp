@@ -1,0 +1,14 @@
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/bin/Debug/net8.0/Hello
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/bin/Debug/net8.0/Hello.deps.json
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/bin/Debug/net8.0/Hello.runtimeconfig.json
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/bin/Debug/net8.0/Hello.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/bin/Debug/net8.0/Hello.pdb
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/obj/Debug/net8.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/obj/Debug/net8.0/Hello.AssemblyInfoInputs.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/obj/Debug/net8.0/Hello.AssemblyInfo.cs
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/obj/Debug/net8.0/Hello.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/obj/Debug/net8.0/Hello.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/obj/Debug/net8.0/refint/Hello.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/obj/Debug/net8.0/Hello.pdb
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/obj/Debug/net8.0/Hello.genruntimeconfig.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-0_HelloWorld/Hello/obj/Debug/net8.0/ref/Hello.dll
