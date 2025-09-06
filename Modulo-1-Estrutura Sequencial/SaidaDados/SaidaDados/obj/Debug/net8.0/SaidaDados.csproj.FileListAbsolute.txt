@@ -1,0 +1,15 @@
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/bin/Debug/net8.0/SaidaDados
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/bin/Debug/net8.0/SaidaDados.deps.json
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/bin/Debug/net8.0/SaidaDados.runtimeconfig.json
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/bin/Debug/net8.0/SaidaDados.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/bin/Debug/net8.0/SaidaDados.pdb
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/obj/Debug/net8.0/SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/obj/Debug/net8.0/SaidaDados.AssemblyInfoInputs.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/obj/Debug/net8.0/SaidaDados.AssemblyInfo.cs
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/obj/Debug/net8.0/SaidaDados.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/obj/Debug/net8.0/SaidaDados.sourcelink.json
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/obj/Debug/net8.0/SaidaDados.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/obj/Debug/net8.0/refint/SaidaDados.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/obj/Debug/net8.0/SaidaDados.pdb
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/obj/Debug/net8.0/SaidaDados.genruntimeconfig.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/SaidaDados/SaidaDados/obj/Debug/net8.0/ref/SaidaDados.dll
