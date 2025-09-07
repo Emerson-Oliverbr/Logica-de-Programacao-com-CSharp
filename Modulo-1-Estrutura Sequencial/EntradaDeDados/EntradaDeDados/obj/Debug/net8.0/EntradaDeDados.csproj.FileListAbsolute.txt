@@ -1,0 +1,15 @@
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/bin/Debug/net8.0/EntradaDeDados
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/bin/Debug/net8.0/EntradaDeDados.deps.json
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/bin/Debug/net8.0/EntradaDeDados.runtimeconfig.json
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/bin/Debug/net8.0/EntradaDeDados.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/bin/Debug/net8.0/EntradaDeDados.pdb
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.AssemblyInfoInputs.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.AssemblyInfo.cs
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.sourcelink.json
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/obj/Debug/net8.0/refint/EntradaDeDados.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.pdb
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/obj/Debug/net8.0/EntradaDeDados.genruntimeconfig.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/EntradaDeDados/EntradaDeDados/obj/Debug/net8.0/ref/EntradaDeDados.dll
