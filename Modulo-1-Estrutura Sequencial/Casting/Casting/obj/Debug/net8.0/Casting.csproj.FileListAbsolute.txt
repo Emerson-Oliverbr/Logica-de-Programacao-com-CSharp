@@ -1,0 +1,15 @@
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/bin/Debug/net8.0/Casting
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/bin/Debug/net8.0/Casting.deps.json
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/bin/Debug/net8.0/Casting.runtimeconfig.json
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/bin/Debug/net8.0/Casting.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/bin/Debug/net8.0/Casting.pdb
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/obj/Debug/net8.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/obj/Debug/net8.0/Casting.AssemblyInfoInputs.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/obj/Debug/net8.0/Casting.AssemblyInfo.cs
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/obj/Debug/net8.0/Casting.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/obj/Debug/net8.0/Casting.sourcelink.json
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/obj/Debug/net8.0/Casting.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/obj/Debug/net8.0/refint/Casting.dll
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/obj/Debug/net8.0/Casting.pdb
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/obj/Debug/net8.0/Casting.genruntimeconfig.cache
+/home/emerson-oliveira/Logica de Programacao com CSharp/Modulo-1-Estrutura Sequencial/Casting/Casting/obj/Debug/net8.0/ref/Casting.dll
