@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 
 namespace Bee1010CalculoSimples;
@@ -25,4 +25,3 @@ class Program
         Console.WriteLine("VALOR A PAGAR: R$ " + total.ToString("F2", CultureInfo.InvariantCulture));
     }
 }
-

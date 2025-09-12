@@ -1,8 +1,11 @@
-﻿using System;
+using System;
 
-namespace Bee1003SomaSimples {
-    class Program {
-        static void Main(string[] args) {
+namespace Bee1003SomaSimples
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 
             int A, B, soma;
 

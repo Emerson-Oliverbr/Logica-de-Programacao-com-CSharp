@@ -1,4 +1,4 @@
-﻿using System.Globalization;
+using System.Globalization;
 namespace Bee1002;
 
 class Program
@@ -13,4 +13,4 @@ class Program
 
         Console.WriteLine($"A={A.ToString("F4", CultureInfo.InvariantCulture)}");
     }
-} 
+}

@@ -1,4 +1,4 @@
-﻿namespace Bee1001ExtremamenteBasico;
+namespace Bee1001ExtremamenteBasico;
 
 class Program
 {
@@ -12,4 +12,3 @@ class Program
         Console.WriteLine($"X = {x}");
     }
 }
-

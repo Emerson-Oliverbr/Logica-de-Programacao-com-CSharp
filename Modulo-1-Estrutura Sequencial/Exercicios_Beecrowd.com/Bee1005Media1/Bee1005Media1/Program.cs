@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 using System.Globalization;
- 
+
 namespace BeeMedia1;
 
 class Program

@@ -1,4 +1,4 @@
-﻿namespace Bee1016Distancia;
+namespace Bee1016Distancia;
 
 class Program
 {

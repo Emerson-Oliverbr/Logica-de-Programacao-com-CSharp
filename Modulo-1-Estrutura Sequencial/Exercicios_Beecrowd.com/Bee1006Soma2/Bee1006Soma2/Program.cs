@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 using System.Globalization;
- 
+
 namespace Bee1006Soma2;
 
 class Program
@@ -18,4 +18,3 @@ class Program
         Console.WriteLine("MEDIA = " + media.ToString("F1", CultureInfo.InvariantCulture));
     }
 }
-
