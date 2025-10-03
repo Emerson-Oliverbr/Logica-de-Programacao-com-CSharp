@@ -35,7 +35,6 @@ class Program
                 dia = "Dia invalido";
                 break;
         }
-
         Console.WriteLine($"Dia da semana: {dia}");
     }
 }

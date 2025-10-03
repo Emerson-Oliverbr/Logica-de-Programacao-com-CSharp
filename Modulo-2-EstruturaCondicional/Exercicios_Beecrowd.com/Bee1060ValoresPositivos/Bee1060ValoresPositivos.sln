@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee1060ValoresPositivos", "Bee1060ValoresPositivos\Bee1060ValoresPositivos.csproj", "{EA588453-0141-4A8F-A315-5178F9CD0391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA588453-0141-4A8F-A315-5178F9CD0391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA588453-0141-4A8F-A315-5178F9CD0391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA588453-0141-4A8F-A315-5178F9CD0391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA588453-0141-4A8F-A315-5178F9CD0391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

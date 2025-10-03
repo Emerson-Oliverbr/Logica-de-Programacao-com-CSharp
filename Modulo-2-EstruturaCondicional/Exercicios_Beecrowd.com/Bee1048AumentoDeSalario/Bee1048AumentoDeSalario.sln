@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee1048AumentoDeSalario", "Bee1048AumentoDeSalario\Bee1048AumentoDeSalario.csproj", "{61D1A85F-8064-42D4-A3FA-E1D9ADD5CAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D1A85F-8064-42D4-A3FA-E1D9ADD5CAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D1A85F-8064-42D4-A3FA-E1D9ADD5CAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D1A85F-8064-42D4-A3FA-E1D9ADD5CAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D1A85F-8064-42D4-A3FA-E1D9ADD5CAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
