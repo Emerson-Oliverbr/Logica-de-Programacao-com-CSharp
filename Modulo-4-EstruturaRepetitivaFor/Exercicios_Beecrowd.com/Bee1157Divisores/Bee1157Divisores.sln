@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee1157Divisores", "Bee1157Divisores\Bee1157Divisores.csproj", "{C633FB4B-65B1-48AA-98BB-0AEFC9A8325D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C633FB4B-65B1-48AA-98BB-0AEFC9A8325D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C633FB4B-65B1-48AA-98BB-0AEFC9A8325D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C633FB4B-65B1-48AA-98BB-0AEFC9A8325D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C633FB4B-65B1-48AA-98BB-0AEFC9A8325D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

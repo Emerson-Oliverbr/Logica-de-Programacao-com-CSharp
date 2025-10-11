@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee1075Resto2", "Bee1075Resto2\Bee1075Resto2.csproj", "{2703A7D4-417F-4FA9-B62F-3AF94334D973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2703A7D4-417F-4FA9-B62F-3AF94334D973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2703A7D4-417F-4FA9-B62F-3AF94334D973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2703A7D4-417F-4FA9-B62F-3AF94334D973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2703A7D4-417F-4FA9-B62F-3AF94334D973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
